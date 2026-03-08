@@ -9,7 +9,6 @@
 - Applying **reinforcement learning and stochastic modelling** to financial data  
 - Designing reproducible experiments and analysing results with pandas, NumPy, and matplotlib  
 
-🛠️ My interests sit at the intersection of **software engineering, data analysis, and finance**
 
 📫 You can reach me at: **roshanpreetham21@gmail.com**
 <!---
