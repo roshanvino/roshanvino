@@ -1,7 +1,7 @@
-### Vino — @roshanvino
+### Vino @roshanvino
 
 Technical Analyst at a London consultancy. I build automations and internal
-tools for client organisations — workflow automation, system integrations,
+tools for client organisations; workflow automation, system integrations,
 and an agentic QA platform.
 
 Happiest deployed into someone else's mess, figuring out what
