@@ -1,17 +1,15 @@
-👋 Hi, I’m @roshanvino  
+### Vino — @roshanvino
 
-🧠 I’m curious about how **data, probability, and computation** can be used to understand complex systems — especially financial markets  
+Technical Analyst at a London consultancy. I build automations and internal
+tools for client organisations — workflow automation, system integrations,
+and an agentic QA platform.
 
-📊 I enjoy working with **large datasets**, building **analytical pipelines**, and turning noisy data into insight using **Python**  
+Happiest deployed into someone else's mess, figuring out what
+they really need and building it end to end. 
 
-🔬 Recently, I’ve been:
-- Building and evaluating **algorithmic trading strategies** in simulated markets  
-- Applying **reinforcement learning and stochastic modelling** to financial data  
-- Designing reproducible experiments and analysing results with pandas, NumPy, and matplotlib  
+Side projects mostly Python:
+- RAG app over my own notes — chunking, embeddings, hybrid search, RAGAS evals
+- AI lead-qualification service on Lambda + Bedrock with AI Integrated
+- Reinforcement learning trading agents in testing
 
-
-📫 You can reach me at: **roshanpreetham21@gmail.com**
-<!---
-roshanvino/roshanvino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 roshanpreetham21@gmail.com 
